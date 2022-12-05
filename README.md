@@ -7,9 +7,9 @@ Group members
 
 Himkumar Patel,  		    885185546	    	Email himpatel5244@csu.fullerton.edu
 
-Tharunaa Shoban Babu,	    885189357	    	Eamil tharunaa@csu.fullerton.edu
+Tharunaa Shoban Babu,	    885189357	    	Email tharunaa@csu.fullerton.edu
 
-Anmol Anil Mayekar,              885587915	    	Eamil mayekaranmol@csu.fullerton.edu
+Anmol Anil Mayekar,              885587915	    	Email mayekaranmol@csu.fullerton.edu
 
 Jeet Ghodasara,                     885867226	    	Email jeet99@csu.fullerton.edu
 
