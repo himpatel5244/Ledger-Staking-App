@@ -4,9 +4,13 @@
 # DeFi (Decentralized Staking App)
 
 Group members
+
 Himkumar Patel  		885185546		himpatel5244@csu.fullerton.edu
+
 Tharunaa Shoban Babu	885189357		tharunaa@csu.fullerton.edu
+
 Anmol Anil Mayekar           885587915		mayekaranmol@csu.fullerton.edu
+
 Jeet Ghodasara                 885867226		 jeet99@csu.fullerton.edu
 
 
